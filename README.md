@@ -20,7 +20,7 @@ I'm a passionate **software developer** with experience in **web, mobile, and Sa
 ### 🏢 [Condomínio Fácil – Porteiro Digital](https://github.com/NicolasGayb/CondominioFacil)
 Full-featured web app for condominium management, including resident management, reservations, and a digital concierge system to track deliveries.
 
-### 📦 [Inventory Management System](https://github.com/NicolasGayb/ControleEstoqueV2)
+### 📦 [LogistiQ](https://github.com/NicolasGayb/LogistiQ)
 Inventory management system, including product registration, stock movements, and inventory reports.
 
 ### 💼 [NeoVendas – Simulated CRM](https://github.com/NicolasGayb/NeoVendas)
