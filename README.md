@@ -72,7 +72,7 @@ A multi-tenant SaaS platform designed to simplify logistics operations for small
 
 <p>
   <a href="https://github.com/NicolasGayb/LogistiQ">
-    <img src="https://img.shields.io/badge/📦_LogistiQ_2.0-181717?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📦_LogistiQ_2.0-556B2F?style=for-the-badge" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@ A web application focused on condominium management, visitor control, reservatio
 
 <p>
   <a href="https://github.com/NicolasGayb/CondominioFacil">
-    <img src="https://img.shields.io/badge/🏢_Condomínio_Fácil-181717?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🏢_Condomínio_Fácil-1E3A5F?style=for-the-badge" />
   </a>
 </p>
 
