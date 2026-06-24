@@ -70,9 +70,11 @@ A multi-tenant SaaS platform designed to simplify logistics operations for small
 
 **Tech Stack:** FastAPI • PostgreSQL • React • React Native • Docker • Google Cloud
 
-<a href="https://github.com/NicolasGayb/LogistiQ-2.0">
-  <img src="https://img.shields.io/badge/View_Project-LogistiQ-2ea44f?style=for-the-badge&logo=github" />
-</a>
+<p>
+  <a href="https://github.com/NicolasGayb/LogistiQ">
+    <img src="https://img.shields.io/badge/📦_LogistiQ_2.0-181717?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -90,9 +92,11 @@ A web application focused on condominium management, visitor control, reservatio
 
 **Tech Stack:** Flask • PostgreSQL
 
-<a href="https://github.com/NicolasGayb/CondominioFacil">
-  <img src="https://img.shields.io/badge/🏢_Condomínio_Fácil-181717?style=for-the-badge" />
-</a>
+<p>
+  <a href="https://github.com/NicolasGayb/CondominioFacil">
+    <img src="https://img.shields.io/badge/🏢_Condomínio_Fácil-181717?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
