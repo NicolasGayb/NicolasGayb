@@ -35,16 +35,21 @@ Focused on building scalable solutions, automating processes, and developing Saa
 
 ## 🛠 Tech Stack
 
-| Software Development                                                                                                | Database, Cloud & DevOps                                                                                                | Enterprise Platforms                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)               | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)       | ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square\&logo=salesforce\&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)                  | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)             | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square\&logo=jira\&logoColor=white)                   |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)                   | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square\&logo=confluence\&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)            | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)                            |                                                                                                                   |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)                  | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=google-cloud\&logoColor=white) |                                                                                                                   |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white) |                                                                                                                         |                                                                                                                   |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)                  |                                                                                                                         |                                                                                                                   |
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)   |                                                                                                                         |                                                                                                                   |
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" title="Supabase"/>
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="40" title="Salesforce"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" title="Jira"/>
+  <img src="https://cdn.simpleicons.org/confluence/172B4D" width="40" title="Confluence"/>
+</p>
+
 ---
 
 ## 🌟 Featured Projects
