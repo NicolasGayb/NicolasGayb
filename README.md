@@ -37,9 +37,7 @@ Focused on building scalable solutions, automating processes, and developing Saa
 
 ### Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,flask,react,postgres,docker,git,gcp" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=python,java,javascript,fastapi,flask,react,postgres,docker,git,gcp)
 
 ### Platforms & Tools
 
