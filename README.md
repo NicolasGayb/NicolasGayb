@@ -54,7 +54,7 @@ Focused on building scalable solutions, automating processes, and developing Saa
 
 ## 🌟 Featured Projects
 
-### 📦 LogistiQ
+### 📦 LogistiQ 2.0
 
 A multi-tenant SaaS platform designed to simplify logistics operations for small and medium-sized businesses.
 
@@ -70,7 +70,7 @@ A multi-tenant SaaS platform designed to simplify logistics operations for small
 
 **Tech Stack:** FastAPI • PostgreSQL • React • React Native • Docker • Google Cloud
 
-[LogistiQ 2.0](https://github.com/NicolasGayb/LogistiQ-2.0)
+[![LogistiQ](https://github-readme-stats.vercel.app/api/pin/?username=NicolasGayb&repo=LogistiQ&theme=radical)](https://github.com/NicolasGayb/LogistiQ-2.0)
 
 ---
 
@@ -88,7 +88,7 @@ A web application focused on condominium management, visitor control, reservatio
 
 **Tech Stack:** Flask • PostgreSQL
 
-[Condomínio Fácil]((https://github.com/NicolasGayb/CondominioFacil))
+[![CondominioFacil](https://github-readme-stats.vercel.app/api/pin/?username=NicolasGayb&repo=CondominioFacil&theme=radical)](https://github.com/NicolasGayb/CondominioFacil)
 
 ---
 
