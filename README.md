@@ -45,7 +45,7 @@ Focused on building scalable solutions, automating processes, and developing Saa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" title="Supabase"/>
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="40" title="Salesforce"/>
+  <img src="https://cdn.simpleicons.org/salesforce" width="40" title="Salesforce"/>
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" title="Jira"/>
   <img src="https://cdn.simpleicons.org/confluence/172B4D" width="40" title="Confluence"/>
 </p>
